@@ -13,7 +13,7 @@
   
 <blockquote cite=Albert Einstein>
   <p> Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento.</p>
-  <a href="#">Albert Einstein</a>
+  <u>Albert Einstein</u>
 </blockquote>
 
 
