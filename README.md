@@ -6,7 +6,7 @@
 <h5>🌱 Atualmente estudando desenvolvimento brack-end|nodejs;<h5>
 <h5>👯 Estou procurando colaborar em projetos back-end;<h5>
 <h5>📫 Como chegar até mim:<h5>
-<a href="https://www.linkedin.com/in/moises-darlison-12833259/">🔗 Linkedin</a>.<br/>
+<a href="https://www.linkedin.com/in/moises-darlison/">🔗 Linkedin</a>.<br/>
 <a href="https://github.com/MoisesDarlison/MoisesDarlison/">🔗 github</a>.<br/>
 <a href="mailto:moisesdarlison91@gmail.com">📧 Moises Darlison</a>.<br/>
 <br/>  <br/>  <br/>
