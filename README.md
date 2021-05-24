@@ -3,7 +3,7 @@
 </h2>
  <p> Olá me chamo Moises, louco por TI, sempre na busca de aprendizado e evoução <p>
 
-<h5>🌱 Atualmente estudando desenvolvimento brack-end|nodejs;<h5>
+<h5>🌱 Atualmente estudando desenvolvimento back-end|nodejs;<h5>
 <h5>👯 Estou procurando colaborar em projetos back-end;<h5>
 <h5>📫 Como chegar até mim:<h5>
 <a href="https://www.linkedin.com/in/moises-darlison/">🔗 Linkedin</a>.<br/>
