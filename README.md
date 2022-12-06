@@ -1,7 +1,7 @@
 <h2 align="center"> 
 	Desenvolvedor BackEnd | NodeJs
 </h2>
- <p> Olá me chamo Moises, sempre na busca de aprendizado e evoução <p>
+ <p> Olá me chamo Moises, sempre na busca de aprendizado e evolução <p>
 
 <p>🌱 Atualmente estudando e trabalhando com desenvolvimento back-end|nodejs;<p>
 	
@@ -21,21 +21,3 @@
   <p> Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento.</p>
   <u>Albert Einstein</u>
 </blockquote>
-
-
-
-
-<!--
-**MoisesDarlison/MoisesDarlison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
