@@ -7,6 +7,7 @@
 	
 <div>
   <a href="https://github.com/MoisesDarlison">
+   <img height="180" alt="Moises Darlison GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MoisesDarlison&show_icons=true&theme=tokyonight&card_width=380">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesDarlison&layout=compact&langs_count=8&theme=dracula">
 </div>
 	
